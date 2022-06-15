@@ -25,3 +25,5 @@ a8718 = "+55 41 9226-8908"
 a8722 = "+55 41 8816-4208"
 
 alunos1743 = [a7595, b7595, a7658, b7658, c7658, a8033, a8047, a8065, b8065, a8113, a8135, b8135, a8152, a8155, a8157, a8193, b8193, a8211, b8211, c8211, a8705, b8705, c8705, a8718, a8722]
+
+mensagem1743 = "Olá caro aluno, pais ou responsável tudo bem com você? 🤔\nProfessor Felipe aqui, do seu curso profissionalizante no Cedaspy Pinheirinho. 👋\n\n Estou aqui para lhe informar que serei seu professor no seu novo módulo de *MANUTENÇÃO*, com início no dia *23/06/2022* das *14:00 até às 16:30* toda *quinta-feira*.😉\n\nVocê poderá assistir *Presencialmente*, em sua casa pelo *Zoom* ou pegar *Gravação no AVA*.😃\n\n*Confirma que irá assistir e que este dia e horário estão adequados para você?*🤔\n\n⚠Preciso receber sua resposta HOJE⚠️"
